@@ -6,3 +6,5 @@
 2. Install all the required dependency( **npm install** ).
 3. Navigate to the previous directory( **cd ..** ).
 4. Deploy the project using firebase-tools( **sudo firebase deploy**).
+
+Enter the mystical world of Pokemon.
